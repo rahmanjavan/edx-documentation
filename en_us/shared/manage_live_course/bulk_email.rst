@@ -40,7 +40,7 @@ When you send a bulk email message from the instructor dashboard, you choose
 its recipients by selecting a **Send to** option. You can select one or more
 recipient groups for each message. For details about who is included in each
 of the preset recipient groups, see :ref:`Bulk Email Who Is Included or
-Excluded`.
+Excluded`
 
 When you send a message to more than one recipient group, duplicate recipients
 are filtered out, so that someone who belongs to more than one of the recipient
