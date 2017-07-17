@@ -169,10 +169,10 @@ discussion.
   **Close**.
 
 * Provide post/response/comment guidelines. You can post information from the
-:ref:`anatomy of edX discussions<Anatomy of edX Course Discussions>` topic in a
-course-wide discussion topic (such as "General") to provide guidance about
-when to start a new thread by adding a post, responding to an existing post,
-or commenting on a response.
+  :ref:`anatomy of edX discussions<Anatomy of edX Course Discussions>` topic in
+  a course-wide discussion topic (such as "General") to provide guidance about
+  when to start a new thread by adding a post, responding to an existing post,
+  or commenting on a response.
 
 
 .. _Close_discussions:
